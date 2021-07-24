@@ -1,0 +1,7 @@
+@mixin arrow($w: 8px, $c: red, $b: top) {
+    font-size: 0;
+    width: 0;
+
+    border: $w solid transparent;
+    border-#{$b}-color: $c;
+}

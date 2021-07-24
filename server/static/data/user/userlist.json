@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "username": "xiaoming",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2020-11-01",
+        "status": true,
+        "permission": "CEO"
+    },
+    {
+        "id": 2,
+        "username": "小王",
+        "telphone": "17864180469",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 3,
+        "username": "小李",
+        "telphone": "15178230987",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": false,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 4,
+        "username": "小红",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 5,
+        "username": "小张",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 6,
+        "username": "小吴",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": false,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 7,
+        "username": "小军",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 8,
+        "username": "tom",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 9,
+        "username": "john",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": false,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 10,
+        "username": "jerry",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 11,
+        "username": "笑笑",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 12,
+        "username": "大明",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": false,
+        "permission": "超级管理员"
+    },
+    {
+        "id": 13,
+        "username": "olg",
+        "telphone": "12345678909",
+        "type": 1,
+        "email": "123456@qq.com",
+        "createTime": "2021-01-01",
+        "status": true,
+        "permission": "超级管理员"
+    }
+]
